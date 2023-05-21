@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulmalik Muhammad (MALIK)</h1>
 <h3 align="center">Frontend Engineer, and Mobile Developer with 4 years of professional experience, focused on React, iOS, Flutter, and React Native. Experience using JavaScript, Dart, Swift, and databases such as Firebase. Looking to work on projects that will satisfy customers' needs and change the world.</h3>
 
-<img align="right" alt="coding" width="400" src="http://google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84%2F68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&tbnid=6_7BCMkOF0X1vM&vet=12ahUKEwikpvn_t4X_AhVMnCcCHRpDAAUQMygBegUIARDtAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=animated%20software%20developer%20coding%20gif&ved=2ahUKEwikpvn_t4X_AhVMnCcCHRpDAAUQMygBegUIARDtAQ](https://images.app.goo.gl/CHA3QM5mXm73Tbsm6
-">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmalik&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmalik" /> </p>
 
