@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulmalik Muhammad (MALIK)</h1>
-<p align="center">Frontend Engineer, and Mobile Developer with 4 years of professional experience</p>
+<p align="center">Frontend Engineer with 2 years of industrial experience</p>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmalik&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmalik" /> </p>
