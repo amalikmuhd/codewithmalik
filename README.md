@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Oyola Mobile](https://oyola.io)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web 3 and Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://codewithfalik.com](https://codewithfalik.com)
 
